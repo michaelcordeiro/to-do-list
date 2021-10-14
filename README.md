@@ -3,6 +3,7 @@
 
 ## Tech 
 * [ ] React js
+* [ ] TypeScript
 
 ## Available Scripts
 
